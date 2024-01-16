@@ -3,7 +3,7 @@
 
 ### Контакты
 email: stapmen@aol.com  
-telegram: @SERGEI_O_M
+telegram: @Sergei_O_M
 
 ### Мои работы
 **Проекты на учебной платформе Нетология**
