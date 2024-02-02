@@ -20,4 +20,5 @@ telegram: @Sergei_O_M
 - [Ручное тестирование](https://github.com/sergei0111/certificates/blob/main/certificate%20Manual%20testing.pdf)
 - [GIT](https://github.com/sergei0111/certificates/blob/main/certificate%20GIT.pdf)
 - [Основы разработки на JAVA](https://github.com/sergei0111/certificates/blob/main/certificate%20JAVA.pdf)
+  
 
